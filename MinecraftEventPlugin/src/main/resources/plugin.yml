@@ -1,0 +1,4 @@
+name: PlayerMonitorPlugin
+version: 0.1
+main: com.oracle.tce.minecrafteventplugin.MinecraftEventPlugin
+api-version: 1.17
